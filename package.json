@@ -11,7 +11,7 @@
     "email": "gabriel@versallini.com.br"
   },
   "dependencies": {
-    "ccxt": "^1.18.625",
+    "ccxt": "^1.55.54",
     "colors": "^1.4.0",
     "lodash": "^4.17.20"
   },
